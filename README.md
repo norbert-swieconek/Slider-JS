@@ -1,1 +1,1 @@
-# Slider-JS
+# Slider - JS
