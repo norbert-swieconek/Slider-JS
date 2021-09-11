@@ -1,5 +1,5 @@
 # Slider - JS
-Simple slider created with pure JavaScript.
+Simple automatic slider created with pure JavaScript.
 
 ## General info
 Slider comes from tutorial freeCodeCamp.org but I modified it. I added arrows and dots. 
