@@ -54,7 +54,7 @@ setInterval(autoPlaying, 5000);
 
 function autoPlaying () {
     counter++;         
-    if (counter >= 3) {
+    if (counter >= 4) {
         counter = 0;
     };  
     translateSlide();
